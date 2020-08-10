@@ -1,0 +1,34 @@
+body, html{
+    margin: 0;
+    padding: 0;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    margin-right: 80px;
+    overflow: hidden;
+    background-color: rgba(8, 0, 54, 0);
+    float: right;
+}
+  
+li {
+    float: left;
+}
+  
+  li a {
+    font-size: 17px;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    
+}
+  
+  li a:hover {
+    color: white;
+    font-size: 18px;
+    text-decoration: none;
+    background-color: rgba(17, 17, 17, 0);
+}
